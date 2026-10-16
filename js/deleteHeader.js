@@ -1,5 +1,5 @@
 /***********************************************
-> deleteHeader by duyvinh09
+> deleteHeader by ntanphat
 ***********************************************/	
 
 const version = 'V1.0.2';
